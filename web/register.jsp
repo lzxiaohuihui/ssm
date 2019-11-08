@@ -16,44 +16,7 @@
     <script src="bootstrap/js/bootstrap/3.3.6/bootstrap.min.js"></script>
     <title>注册天狗</title>
 
-    <style>
-
-        body{
-            font-size: 12px;
-            font-family: Arial;
-        }
-        div.login{
-            background-color: #a6e1ec;
-            width: 300px;
-            height: 300px;
-            margin-left: 60%;
-            margin-top: 10%;
-
-            padding: 20px;
-        }
-        div.title{
-            font-size: 18px;
-
-        }
-        div.login div{
-            margin: 10px;
-        }
-        span{
-            float: left;
-            padding: 10px 0px;
-        }
-        input{
-            float: right;
-        }
-        a{
-            text-decoration: none;
-        }
-        a:hover{
-            text-decoration: none;
-        }
-
-
-    </style>
+    <style rel="stylesheet" href="css/register.css"></style>
     <script>
         $(document).ready(function(){
 
